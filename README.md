@@ -1,2 +1,2 @@
 # tri-resolusi
-repository untuk menimpan rencana tri kedepannya
+repository untuk menyimpan rencana tri kedepannya
